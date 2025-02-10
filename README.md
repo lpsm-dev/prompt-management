@@ -23,7 +23,7 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
   - [Contexto e Motivação](#contexto-e-motivacao)
   - [Audiência](#audiencia)
 - [Estrutura de Pastas](#estrutura-de-pastas)
-- [Entendendo Prompt Engineering](#entendendo-prompt-engineering)
+- [Prompt Engineering](#entendendo-prompt-engineering)
   - [O que é?](#o-que-e)
   - [Por que é importante?](#por-que-e-importante)
   - [Como criar bons prompts?](#como-criar-bons-prompts)
@@ -86,6 +86,8 @@ Esta estrutura facilita o acesso rápido às informações e permite um gerencia
 ---
 
 # Prompt Engineering
+
+Nessa sessão vamos explorar o conceito de Prompt Engineering e como ele pode ser aplicado para melhorar a interação com modelos de IA.
 
 ## O que é?
 
