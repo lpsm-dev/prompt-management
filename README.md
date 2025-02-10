@@ -93,6 +93,9 @@ Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as dife
 │── README.md
 ```
 
+- A pasta [`prompts'](./prompts) contém os prompts organizados por categorias.
+- A pasta [`templates`](./templates) contém modelos de prompts utilizados como base para criação de novos prompts.
+
 **Regras:**
 
 - Cada prompt é descrito em um arquivo `.md` separado.
