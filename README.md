@@ -80,14 +80,12 @@ Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as dife
 
 **Regras:**
 
-- Cada prompt em arquivo `.md` separado.
-- Metadados no front-matter (ex: `tags: [aws, terraform]`).
+- Cada prompt é descrito em um arquivo `.md` separado.
+- Metadados front-matter (ex: `tags: [aws, terraform]`) são colocados no início do arquivo.
 - Use o delimitador `-` para separar palavra do arquivo (ex: `debug-container-logs.md`).
 - Use nomes descritivos e concisos.
 
-Esta estrutura facilita o acesso rápido às informações e permite um gerenciamento mais eficiente do repositório.
-
----
+Essa estrutura facilita o acesso rápido às informações e permite um gerenciamento mais eficiente do repositório, além de paltar
 
 # Prompt Engineering
 
