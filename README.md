@@ -26,7 +26,6 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
 - [Visão Geral](#vis%C3%A3o-geral)
   - [Objetivo](#objetivo)
   - [Contexto e Motivação](#contexto-e-motiva%C3%A7%C3%A3o)
-  - [Audiência](#audi%C3%AAncia)
 - [Estrutura de Pastas](#estrutura-de-pastas)
 - [Gen AI](#gen-ai)
   - [O que é?](#o-que-%C3%A9)
@@ -63,11 +62,6 @@ Nesse repositório apresento para vocês um guia prático sobre **Prompt Enginee
 A true da true meu jovem camarada, é que com o avanço da IA, todos nós estamos com medo de perder nossos empregos. "Ain, mas eu sou um cara foda, não vou ser substituído por uma máquina, tenho várias certificações e sou especialista". Amigão, sinto muito em te informar, mas a IA já está sendo usada para automatizar tarefas em diversas áreas e a sua não é exceção 🤭.
 
 No final os humanos sentem medo do desconhecido. Todos nós, variando de grau, tememos o que não entendemos. E é por isso que estou aqui! Quero te ajudar a entender como você pode se beneficiar da IA, ao invés de ser substituído por ela, utilizando técnicas de Prompt Engineering para melhorar a interação com modelos de linguagem de grande escala (LLMs).
-
-## Audiência
-
-- Profissionais de tecnologia (DevOps, Engenheiros de Software, Cientistas de Dados).
-- Pessoas buscando melhorar a interação com LLMs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
