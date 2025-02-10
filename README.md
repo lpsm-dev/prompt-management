@@ -61,7 +61,7 @@ No final os humanos sentem medo do desconhecido. Todos nós, variando de grau, t
 
 # Estrutura de Pastas
 
-Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as diferentes seções ou categorias abordadas. Abaixo, dou um exemplo dessa organização:
+Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as diferentes seções ou categorias que podemos ter em alguma área de nossa vida. Abaixo, dou um exemplo dessa organização:
 
 ```
 /prompt-management
