@@ -51,4 +51,4 @@ repos:
     rev: v2.2.0
     hooks:
       - id: doctoc
-        args: [--maxlevel=1]
+        args: [README.md, --maxlevel=2]
