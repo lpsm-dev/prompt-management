@@ -20,22 +20,33 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
 <details>
   <summary><strong>Expandir</strong></summary>
 
-- [Visão Geral](#visao-geral)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Visão Geral](#vis%C3%A3o-geral)
   - [Objetivo](#objetivo)
-  - [Contexto e Motivação](#contexto-e-motivacao)
-  - [Audiência](#audiencia)
+  - [Contexto e Motivação](#contexto-e-motiva%C3%A7%C3%A3o)
+  - [Audiência](#audi%C3%AAncia)
 - [Estrutura de Pastas](#estrutura-de-pastas)
+- [Gen AI](#gen-ai)
+  - [O que é?](#o-que-%C3%A9)
+  - [O que são Foundation Models?](#o-que-s%C3%A3o-foundation-models)
+  - [O que são Large Language Models (LLMs)?](#o-que-s%C3%A3o-large-language-models-llms)
 - [Prompt Engineering](#prompt-engineering)
-  - [O que é?](#o-que-e)
-  - [Por que é importante?](#por-que-e-importante)
+  - [O que é?](#o-que-%C3%A9-1)
+  - [Por que é importante?](#por-que-%C3%A9-importante)
   - [Como criar bons prompts?](#como-criar-bons-prompts)
-  - [Estratégias de Criação](#estrategias-de-criação)
-  - [Melhores Práticas](#melhores-praticas)
-- [Referências](#referencias)
-- [Contribuição](#contribuicao)
+  - [Estratégias de Criação](#estrat%C3%A9gias-de-cria%C3%A7%C3%A3o)
+  - [Avaliação de Prompts](#avalia%C3%A7%C3%A3o-de-prompts)
+  - [Relação entre FM, LLMs e Prompt Engineering](#rela%C3%A7%C3%A3o-entre-fm-llms-e-prompt-engineering)
+- [Conclusão](#conclus%C3%A3o)
+- [Referências](#refer%C3%AAncias)
+- [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Versionamento](#versionamento)
 - [Troubleshooting](#troubleshooting)
 - [Show your support](#show-your-support)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,6 +98,32 @@ Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as dife
 
 Essa estrutura facilita o acesso rápido às informações e permite um gerenciamento mais eficiente do repositório, além de paltar
 
+# Gen AI
+
+## O que é?
+
+A IA Generativa é um ramo da inteligência artificial focado na criação de novos conteúdos, como texto, imagens, áudio e código. Ela utiliza modelos avançados de machine learning para aprender padrões de grandes volumes de dados e gerar respostas criativas e contextuais.
+
+## O que são Foundation Models?
+
+Foundation Models são modelos de IA altamente escaláveis e treinados em grandes quantidades de dados não específicos para uma única tarefa. Eles servem como base para diversas aplicações e podem ser ajustados para domínios específicos.
+
+**Principais Características**:
+
+- Treinados em dados genéricos e refinados para tarefas específicas.
+- Alta adaptabilidade para aplicações em diversas indústrias.
+- Exemplo: O GPT-4 é um Foundation Model ajustado para aplicações como ChatGPT e Copilot.
+
+## O que são Large Language Models (LLMs)?
+
+Large Language Models (LLMs) são modelos de inteligência artificial treinados em vastos conjuntos de dados textuais. Eles utilizam arquiteturas de deep learning, como Transformers, para gerar respostas coerentes e contextuais baseadas em uma entrada textual.
+
+**Principais Características**:
+
+- São capazes de compreender e gerar texto em linguagem natural.
+- Podem realizar tarefas como resumo, tradução, geração de código e análise de sentimentos.
+- Exemplos: GPT-4, PaLM, Claude e LLaMA.
+
 # Prompt Engineering
 
 Nessa sessão vamos explorar o conceito de Prompt Engineering e como ele pode ser aplicado para melhorar a interação com modelos de IA.
@@ -126,6 +163,21 @@ flowchart TD
 - **Chain-of-thought prompting**: Induzir o modelo a explicar seu raciocínio.
 - **Role prompting**: Definir o papel do modelo para contextualizar a resposta.
 - **Step-by-step prompting**: Dividir a tarefa em etapas sequenciais.
+
+## Avaliação de Prompts
+
+- **Teste diferentes abordagens** para comparar eficácia.
+- **Analise as respostas geradas**: Coerência, precisão e relevância.
+- **Utilize métricas**: Perplexidade, diversidade e fluência do texto.
+- **Solicite feedback**: Verifique a satisfação dos usuários com os resultados.
+
+## Relação entre FM, LLMs e Prompt Engineering
+
+Foundation Models são a base da inteligência artificial moderna, fornecendo um modelo pré-treinado que pode ser especializado em tarefas específicas. LLMs são um subconjunto desses modelos, focados no processamento e geração de linguagem natural. Prompt Engineering surge como a ponte entre esses modelos e o usuário, permitindo que as interações sejam mais eficazes e direcionadas.
+
+- **Foundation Models** → Base treinada para diversas aplicações.
+- **LLMs** → Modelos especializados em linguagem natural.
+- **Prompt Engineering** → Técnica para extrair o melhor desempenho desses modelos.
 
 # Conclusão
 
