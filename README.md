@@ -55,9 +55,9 @@ No final os humanos sentem medo do desconhecido. Todos nós, variando de grau, t
 
 ## Audiência
 
-- Profissionais de tecnologia (DevOps, Engenheiros de Software, Cientistas de Dados)
-- Estudantes e pesquisadores interessados em IA generativa
-- Desenvolvedores buscando melhorar a interação com LLMs
+- Profissionais de tecnologia (DevOps, Engenheiros de Software, Cientistas de Dados).
+- Estudantes e pesquisadores interessados em IA generativa.
+- Pessoas buscando melhorar a interação com LLMs.
 
 # Estrutura de Pastas
 
