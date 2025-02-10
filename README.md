@@ -186,11 +186,9 @@ Foundation Models são a base da inteligência artificial moderna, fornecendo um
 
 # Conclusão
 
-A Engenharia de Prompt é uma habilidade crítica para maximizar o potencial dos LLMs em qualquer área. Ao organizar prompts em seções temáticas e seguir boas práticas, você pode:
+A Engenharia de Prompt é uma habilidade crítica para maximizar o potencial dos LLMs em qualquer área. Não entender como criar prompts eficazes pode levar a respostas imprecisas e ineficientes. Ao seguir as práticas recomendadas e experimentar diferentes abordagens, você pode otimizar a interação com modelos de IA e obter resultados mais satisfatórios.
 
-- Acelerar tarefas diárias.
-- Melhorar a consistência das saídas.
-- Facilitar o conhecimento coletivo da equipe.
+Lembre-se: a IA é uma ferramenta poderosa, mas seu desempenho depende da qualidade dos dados e instruções fornecidas. Invista tempo em aprimorar seus prompts e veja como isso pode transformar sua experiência com LLMs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
