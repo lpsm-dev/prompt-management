@@ -45,7 +45,7 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
 
 ## Objetivo
 
-Esse repositório visa centralizar e organizar prompts otimizados para interação com modelos de inteligência artificial, garantindo melhor eficiência e resultados mais precisos.
+Nesse repositório apresento para vocês um guia prático sobre Prompt Engineering, com dicas, estratégias e boas práticas para criar prompts eficazes. Além disso, compartilho exemplos de prompts em diferentes áreas, como DevOps, Data Science e General, que utilizo em projetos do dia a dia.
 
 ## Contexto e Motivação
 
