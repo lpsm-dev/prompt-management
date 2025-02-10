@@ -87,6 +87,9 @@ Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as dife
 │   ├── general
 │   │   ├── brainstorming.md
 │   │   ├── summarization.md
+│── /templates
+│   ├── base-template.md
+│   ├── advanced-template.md
 │── README.md
 ```
 
