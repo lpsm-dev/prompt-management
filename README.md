@@ -67,8 +67,9 @@ No final os humanos sentem medo do desconhecido. Todos nós, variando de grau, t
 ## Audiência
 
 - Profissionais de tecnologia (DevOps, Engenheiros de Software, Cientistas de Dados).
-- Estudantes e pesquisadores interessados em IA generativa.
 - Pessoas buscando melhorar a interação com LLMs.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Estrutura de Pastas
 
@@ -97,6 +98,8 @@ Aqui, irei organizar meus prompts em uma estrutura de pastas que reflita as dife
 - Use nomes descritivos e concisos.
 
 Essa estrutura facilita o acesso rápido às informações e permite um gerenciamento mais eficiente do repositório, além de paltar
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Gen AI
 
@@ -178,6 +181,8 @@ Foundation Models são a base da inteligência artificial moderna, fornecendo um
 - **Foundation Models** → Base treinada para diversas aplicações.
 - **LLMs** → Modelos especializados em linguagem natural.
 - **Prompt Engineering** → Técnica para extrair o melhor desempenho desses modelos.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Conclusão
 
