@@ -3,6 +3,8 @@
 
 <a name="readme-top"></a>
 
+<img alt="header" src="https://github.com/lpsm-dev/lpsm-dev/blob/c59e251ef0529bb0daede7c45563e90fcbfcb296/.github/assets/prompt-engineering.png" width="300"/>
+
 Hello Human 👽! Bem-vindo ao meu repositório 👋
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://www.conventionalcommits.org/en/v1.0.0/)
@@ -23,11 +25,11 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
   - [Contexto e Motivação](#contexto-e-motivacao)
   - [Audiência](#audiencia)
 - [Estrutura de Pastas](#estrutura-de-pastas)
-- [Prompt Engineering](#entendendo-prompt-engineering)
+- [Prompt Engineering](#prompt-engineering)
   - [O que é?](#o-que-e)
   - [Por que é importante?](#por-que-e-importante)
   - [Como criar bons prompts?](#como-criar-bons-prompts)
-  - [Estratégias de Prompt Engineering](#estrategias-de-prompt-engineering)
+  - [Estratégias de Criação](#estrategias-de-criação)
   - [Melhores Práticas](#melhores-praticas)
 - [Referências](#referencias)
 - [Contribuição](#contribuicao)
@@ -116,7 +118,7 @@ flowchart TD
     E -->|Não| B
 ```
 
-## Estratégias de Prompt Engineering
+## Estratégias de Criação
 
 - **Zero-shot prompting**: Perguntar diretamente sem fornecer exemplos.
 - **One-shot prompting**: Oferecer um exemplo para orientar a resposta.
@@ -126,6 +128,12 @@ flowchart TD
 - **Step-by-step prompting**: Dividir a tarefa em etapas sequenciais.
 
 # Conclusão
+
+A Engenharia de Prompt é uma habilidade crítica para maximizar o potencial dos LLMs em qualquer área. Ao organizar prompts em seções temáticas e seguir boas práticas, você pode:
+
+- Acelerar tarefas diárias.
+- Melhorar a consistência das saídas.
+- Facilitar o conhecimento coletivo da equipe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

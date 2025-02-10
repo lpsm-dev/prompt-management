@@ -1,0 +1,51 @@
+# .gitignore para Repositório de Gerenciamento de Prompts
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de ambiente e dependências
+.env
+.venv/
+venv/
+node_modules/
+__pycache__/
+
+# Arquivos de IDE/Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e diagnósticos
+*.log
+*.tmp
+
+# Arquivos compilados/bibliotecas
+*.pyc
+*.pyo
+*.exe
+*.dll
+
+# Arquivos sensíveis/credenciais
+*.key
+*.cert
+secrets.yml
+
+# Artefatos de build e pacotes
+dist/
+build/
+*.egg-info/
+*.tar.gz
+
+# Terraform/Ansible específico
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Documentação gerada automáticamente
+site/
+docs/_build/
+
+# Exceção (opcional): manter pasta de prompts vazia no repositório
+!prompts/.keep
