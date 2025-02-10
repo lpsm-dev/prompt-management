@@ -44,7 +44,7 @@ Pronto para aprender sobre Prompt Engineering? 🚀 (ou então perderá seu empr
 
 ## Objetivo
 
-Nesse repositório apresento para vocês um guia prático sobre **Prompt Engineering**, com dicas, estratégias e boas práticas para crição de prompts eficazes. Além disso, compartilho prompts de diferentes áreas, como DevOps, Data Science e Business, que utilizo em projetos do dia a dia para acelerar tarefas (a coisa tá feia kkkk).
+Nesse repositório apresento para vocês um guia prático sobre **Prompt Engineering**, com dicas, estratégias e boas práticas para crição de prompts eficazes. Além de fazer uma breve introdução sobre esse tema, compartilho prompts de diferentes áreas, como DevOps, Data Science e Business, que utilizo em projetos do dia a dia para acelerar tarefas (a coisa tá feia kkkk).
 
 ## Contexto e Motivação
 
